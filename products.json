@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1",
+        "name": "กางเกงในลายอเมริกา โดยพี่โต",
+        "picture": "images/American.png",
+        "price": 599
+    },
+    {
+        "id": "2",
+        "name": "กางเกงในลายหมาป่า",
+        "picture": "images/Wolf1.png",
+        "price": 499
+    },
+    {
+        "id": "3",
+        "name": "กางเกงในลายเหยี่ยว",
+        "picture": "images/Eagle1.png",
+        "price": 499
+    },
+    {
+        "id": "4",
+        "name": "กางเกงในลายน้องหมาฟรุ้งฟริ้ง",
+        "picture": "images/Dog1.png",
+        "price": 199
+    },
+    {
+        "id": "5",
+        "name": "กางเกงในลายเสือขย้ำใจเธอ",
+        "picture": "images/Tiger.png",
+        "price": 299
+    },
+    {
+        "id": "6",
+        "name": "กางเกงในลายแมวเหมียว",
+        "picture": "images/Cat.png",
+        "price": 299
+    },
+    {
+        "id": "7",
+        "name": "กางเกงในลายหมูอู๊ด อู๊ด",
+        "picture": "images/Pig.png",
+        "price": 99
+    },
+    {
+        "id": "8",
+        "name": "กางเกงในลายแรคคูนสายปีนป่าย",
+        "picture": "images/Raccoon.png",
+        "price": 299
+    },
+    {
+        "id": "9",
+        "name": "กางเกงในลายสล็อตสำหรับคนเหนื่อยง่าย",
+        "picture": "images/Slot.png",
+        "price": 199
+    },
+    {
+        "id": "10",
+        "name": "กางเกงในลายจิ้งจอก ใส่เดินป่าพร้อมกับแฟนของคุณ",
+        "picture": "images/Fox.png",
+        "price": 299
+    },
+    {
+        "id": "11",
+        "name": "กางเกงในลายช้างน้อย สำหรับคนช้างน้อยๆแบบคุณ",
+        "picture": "images/Ele.png",
+        "price": 299
+    },
+    {
+        "id": "12",
+        "name": "กางเกงในลายนกแก้ว นกแก้วจะคุยกับช้างน้อยของคุณยามเหงาเอง",
+        "picture": "images/Pirot.png",
+        "price": 299
+    },
+    {
+        "id": "13",
+        "name": "กางเกงในลายชิวาว่า ที่แฟนของคุณจะเอ็นดูมัน",
+        "picture": "images/Chiwawa.png",
+        "price": 299
+    },
+    {
+        "id": "14",
+        "name": "กางเกงในลายน้องลิงที่พร้อมจะซุกซนไปกับคุณ",
+        "picture": "images/Monkey.png",
+        "price": 299
+    },
+    {
+        "id": "15",
+        "name": "กางเกงในลายพี่เสือที่จะไปขยั้มแฟนของคุณ",
+        "picture": "images/TigerW.png",
+        "price": 499
+    }
+    
+    
+]
